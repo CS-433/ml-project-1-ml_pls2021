@@ -11,7 +11,9 @@ Selima  Jaoua   : @salimajaoua
 
 
 # Project structure
+## Presentation : 
 
+In the folder project1 : we have a folder containing the data that we need to use. And also the project description 
 ## Data analysis : 
 dataAnalysis.py : process data for model by splitting the classes, delete missing values, and multiply features depending on the threshold. 
 ## Methods : 
