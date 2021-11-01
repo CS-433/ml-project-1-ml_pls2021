@@ -12,16 +12,16 @@ Selima  Jaoua   : @salimajaoua
 
 # Project structure
 ## Presentation : 
-The data can be found on the GitHub of the course : https://github.com/ML_course/blob/master/projects/project1/data. Please to run our code, download the data and put it in the same folder of our files. \
-proj1_helpers : we changed the function predict_label for two reasons : first, we modify the prediction from  -1,1 it became 0,1. Also, we added a input variable which tells us if the method is logistic or not, because depending of that, the prediction function will change. 
+The data can be found on the GitHub of the course : https://github.com/ML_course/blob/master/projects/project1/data. To run our code, please download the data and put it in the same folder as our files. \
+proj1_helpers : we changed the function predict_label in two ways : first, we modified the prediction from  -1,1 to 0,1. Also, we added an input variable which tells us if the method is logistic or not. Depending on the method, the prediction function will change. 
 ## Data analysis : 
-dataAnalysis.py : process data for model by splitting the classes, delete missing values, and multiply features depending on the threshold. 
+dataAnalysis.py : process data for model by splitting the classes, delete missing values, and multiply features depending on a certain threshold. 
 ## Methods : 
 implementations.py  : the implementation of 6 methods to train the model. 
 
 cross_valisation.py : use cross-validation to find the best parameters for ridge regression. 
 
-Folder Mains        : for each method, you can found a jupyter notebook file that output the prediction for both train and test data. To run this, please download this and place them in the same folder that the data and implementations.py
+Folder Mains        : for each method, you can find a Jupyter Notebook file that outputs the prediction for both train and test data. To run this, please download this and place them in the same folder as both the data and implementations.py
 ## Best model : 
 run.py /run.ipynb  : Results using the best model ( Regularized Logistic Regression ) for both train and test (We perfer to work with a Jupyter Notebook for the submissions)\
 finalsubmission.csv : Prediction for the test data with our best model
