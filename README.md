@@ -5,9 +5,9 @@ The repository contains the code for Machine Learning course 2021 (CS-433) proje
 ## Team
 The project is accomplished by team PLSteam with members:
 
-Leandre Castagna: @Defteggg 
-Pascal  Epple   : @epplepascal
-Selima  Jaoua   : @salimajaoua
+*item Leandre Castagna: @Defteggg 
+*item Pascal  Epple   : @epplepascal
+*item Selima  Jaoua   : @salimajaoua
 
 
 # Project structure
