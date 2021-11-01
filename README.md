@@ -12,7 +12,8 @@ Selima  Jaoua   : @salimajaoua
 
 # Project structure
 ## Presentation : 
-We put both data : train.csv and test.csv so that you can have them in the same folder to run the code. 
+We put both data : train.csv and test.csv so that you can have them in the same folder to run the code. \
+proj1_helpers :
 ## Data analysis : 
 dataAnalysis.py : process data for model by splitting the classes, delete missing values, and multiply features depending on the threshold. 
 ## Methods : 
