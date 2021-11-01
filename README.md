@@ -3,11 +3,11 @@ ml-project-1-ml_pls2021 created by GitHub Classroom
 # General Information
 The repository contains the code for Machine Learning course 2021 (CS-433) project 1.
 ## Team
-The project is accomplished by team PLSteam with members:
+The project is accomplished by team PLSteam with members:__
 
-*item Leandre Castagna: @Defteggg 
-*item Pascal  Epple   : @epplepascal
-*item Selima  Jaoua   : @salimajaoua
+Leandre Castagna: @Defteggg __
+Pascal  Epple   : @epplepascal __
+Selima  Jaoua   : @salimajaoua __
 
 
 # Project structure
