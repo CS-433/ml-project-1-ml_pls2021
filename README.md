@@ -12,8 +12,7 @@ Selima  Jaoua   : @salimajaoua
 
 # Project structure
 ## Presentation : 
-
-In the folder project1 : we have a folder containing the data that we need to use. And also the project description 
+We put both data : train.csv and test.csv so that you can have them in the same folder to run the code. 
 ## Data analysis : 
 dataAnalysis.py : process data for model by splitting the classes, delete missing values, and multiply features depending on the threshold. 
 ## Methods : 
