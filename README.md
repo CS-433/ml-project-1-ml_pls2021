@@ -23,7 +23,7 @@ cross_valisation.py : use cross-validation to find the best parameters for ridge
 
 Folder Mains        : for each method, you can found a jupyter notebook file that output the prediction for both train and test data. To run this, please download this and place them in the same folder that the data and implementations.py
 ## Best model : 
-run.py   : Results using the best model ( Regularized Logistic Regression ) for both train and test 
+run.py /run.ipynb  : Results using the best model ( Regularized Logistic Regression ) for both train and test (We perfer to work with a Jupyter Notebook for the submissions)
 finalsubmission.csv : Prediction for the test data with our best model
 
 ## Report
