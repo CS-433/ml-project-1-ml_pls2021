@@ -12,8 +12,8 @@ Selima  Jaoua   : @salimajaoua
 
 # Project structure
 ## Presentation : 
-We put both data : train.csv and test.csv so that you can have them in the same folder to run the code. \
-proj1_helpers :
+The data can be found on the GitHub of the course : https://github.com/ML_course/blob/master/projects/project1/data. Please to run our code, download the data and put it in the same folder of our files. \
+proj1_helpers : we changed the function predict_label for two reasons : first, we modify the prediction from  -1,1 it became 0,1. Also, we added a input variable which tells us if the method is logistic or not, because depending of that, the prediction function will change. 
 ## Data analysis : 
 dataAnalysis.py : process data for model by splitting the classes, delete missing values, and multiply features depending on the threshold. 
 ## Methods : 
